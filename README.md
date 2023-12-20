@@ -1,14 +1,18 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Javier Paez Franco)](https://git.io/typing-svg)
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Javier+Paez+Franco" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
 <h5 style="text-align: center;">
-<code>
+  <code>
     <a href="https://www.linkedin.com/in/javier-paez-franco/" title="LinkedIn Profile">
         <img width="22" src="images/linkedin.svg" alt="LinkedIn Logo"> 
         LinkedIn
     </a>
-</code>
+  </code>
 </h5>
 
 ## ⚡️ A quick introduction
