@@ -9,7 +9,6 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/javier-paez-franco/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
-<br>
 
 ## ⚡️ A quick introduction
 
