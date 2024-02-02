@@ -13,16 +13,16 @@
 
 ## ⚡️ A quick introduction
 
-Hi, I'm Javier Páez Franco!
+Hello!👋🏻 I'm **Javier**!
 
 🔬 I am an ambitious Honours (Next Generation Robotics) student at TU Delft (Netherlands)
 
-🎓 I am currently pursuing a Bachelor's in Computer Science & Engineering (CSE), third year
+🎓 I am currently pursuing a B.Sc. in Computer Science & Engineering (CSE), third year
 
-💻 My interests lie within the field of AI, Machine Learning & Robotic
+💻 My interests lie within the field of AI, Machine Learning & Robotics
 
 🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin 
-with multiple orchestras
+with multiple orchestras worldwide
 
 🎞️ I am also interested in video games and cinematography
 
