@@ -32,7 +32,7 @@ with multiple orchestras worldwide
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p style="text-align: left;">
-    <a href="https://github.com/umenzi/artificial-neural-network"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=artificial-neural-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Artificial Neural Network"></a>
+    <a href="https://github.com/umenzi/bio-inspired_algorithms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=bio-inspired_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bio-Inspired algorithms"></a>
 </p>
 
 <a href="https://github.com/umenzi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
