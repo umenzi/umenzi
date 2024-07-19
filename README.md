@@ -32,6 +32,14 @@ with multiple orchestras worldwide
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p style="text-align: left;">
+    <a href="https://github.com/umenzi/bio-inspired_algorithms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=jpaefra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Website (jpaefra)"></a>
+</p>
+
+<p style="text-align: left;">
+    <a href="https://github.com/umenzi/bio-inspired_algorithms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The human factor: Addressing Diversity in RLHF"></a>
+</p>
+
+<p style="text-align: left;">
     <a href="https://github.com/umenzi/bio-inspired_algorithms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=bio-inspired_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bio-Inspired algorithms"></a>
 </p>
 
