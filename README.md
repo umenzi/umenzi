@@ -8,6 +8,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/javier-paez-franco/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+
+  <code><a href="https://www.jpaefra.com/" title="Personal Website"><img width="22" src="https://cdn-icons-png.flaticon.com/512/16384/16384798.png"> Personal Website</a></code>
 </h5>
 <br>
 
