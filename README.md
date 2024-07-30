@@ -6,29 +6,26 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/javier-paez-franco/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://jpaefra.com)
+[![Blog](https://img.shields.io/badge/Blog-jpaefra.com/blog-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://jpaefra.com/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-paez-franco/)
+[![Gmail](https://img.shields.io/badge/Gmail-jpaefra@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:jpaefra@gmail.com?subject=Hey!)
 
-  <code><a href="https://www.jpaefra.com/" title="Personal Website"><img width="22" src="https://cdn-icons-png.flaticon.com/512/16384/16384798.png"> Personal Website</a></code>
-</h5>
 <br>
 
-## ⚡️ A quick introduction
+# Hi there 👋
 
-Hello!👋🏻 I'm **Javier**!
+My name is Jaier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
 
-🔬 I am an ambitious Honours (Next Generation Robotics) student at TU Delft (Netherlands)
-
-🎓 I am currently pursuing a B.Sc. in Computer Science & Engineering (CSE), third year
+Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
 
 💻 My interests lie within the field of AI, Machine Learning & Robotics
 
-🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin 
-with multiple orchestras worldwide
+🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
 
 🎞️ I am also interested in video games and cinematography
 
-📫 How to reach me: <a href="mailto: jpaefra@gmail.com">jpaefra@gmail.com</a>
+## GitHub Stats
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
