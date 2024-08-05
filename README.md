@@ -13,7 +13,7 @@
 
 <br>
 
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
 My name is Jaier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
 
