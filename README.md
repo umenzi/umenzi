@@ -15,7 +15,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is Jaier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
+My name is Javier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
 
 Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
 
@@ -25,7 +25,7 @@ Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delf
 
 🎞️ I am also interested in video games and cinematography
 
-if you like what i do, maybe consider buying me a coffee/tea 👉👈
+If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -51,19 +51,3 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 </p>
 
 <a href="https://github.com/umenzi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-
-<!--
-**umenzi/umenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
