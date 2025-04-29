@@ -11,7 +11,7 @@
 
 <br>
 
-# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
 
 My name is Javier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
 
@@ -27,7 +27,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## GitHub Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
  -->
