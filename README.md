@@ -17,7 +17,7 @@ My name is Javier Paez, a graduate student at Imperial College 🇬🇧 pursuing
 
 Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
 
-💻 My interests lie within the field of AI, Machine Learning & Robotics
+💻 My interests lie within the field of AI & Machine Learning
 
 🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
 
